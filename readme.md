@@ -4,12 +4,12 @@
 
 > Full walkthrough of most of the app features and UI
 
-![Airbnb Clone iOS](./ReadmeDumps/WalkTHrough.mp4)
+![Airbnb Clone iOS](./ReadmeDumps/Walkthrough.gif)
 
 ## Demo
 
 
-![Airbnb Clone iOS](./ReadmeDumps/WalkTHrough.mp4)
+![Airbnb Clone iOS](./ReadmeDumps/Walkthrough.gif)
 
 
 ## Overview
